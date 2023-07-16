@@ -1,0 +1,12 @@
+body{
+  background-color: aquamarine;
+  text-align: center;
+}
+h1{
+  background-color: coral;
+  border: 3px dotted black;
+  color:yellow;
+}
+h3{
+  text-align: center;
+}
